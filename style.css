@@ -1,0 +1,31 @@
+.debug-box-1 {
+	width: 33.33%;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	float: left;
+}
+
+.debug-box-2 {
+	width: 33.33%;
+	background-color: red;
+	color: white;
+	text-align: center;
+	float: left;
+}
+
+.debug-box-3 {
+	width: 33.33%;
+	background-color: green;
+	color: white;
+	text-align: center;
+	float: left;
+}
+
+.frame-size {
+	width: 100%;
+}
+
+[snap-frame] {
+	transform-origin: top left;
+}
